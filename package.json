@@ -3,7 +3,7 @@
     "description": "Custom templates plugin",
     "version": "1.0.0",
     "author": "Sagar",
-    "repository": "https://github.com/sagar-7227/monokle-templates-plugin",
+    "repository": "https://github.com/sagar-7227/monokle-template-plugin",
     "monoklePlugin": {
       "modules": [
         {
